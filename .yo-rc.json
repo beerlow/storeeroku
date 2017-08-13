@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "4.6.2",
+    "baseName": "storeEroku",
+    "packageName": "store",
+    "packageFolder": "store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSocialSignIn": true,
+    "jwtSecretKey": "e40ff9bcd24cfdb22e2ad1c66c257ad782f9f273",
+    "clientFramework": "angular1",
+    "useSass": false,
+    "clientPackageManager": "yarn",
+    "applicationType": "monolith",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "herokuAppName": null
+  }
+}
