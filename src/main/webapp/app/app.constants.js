@@ -5,6 +5,6 @@
         .module('storeErokuApp')
         .constant('VERSION', "0.0.1-SNAPSHOT")
         .constant('DEBUG_INFO_ENABLED', false)
-        .constant('BUILD_TIMESTAMP', 1502554778742)
+        .constant('BUILD_TIMESTAMP', 1502746504252)
 ;
 })();
