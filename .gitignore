@@ -140,3 +140,8 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+######################
+# ADDED
+######################
+src/main/webapp/app/app.constants.js
